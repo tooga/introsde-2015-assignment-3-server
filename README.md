@@ -3,7 +3,7 @@
 ### General info of the assignment
 In the assignment I worked alone.  
 The server for my assignment is running in [http://introsde-assignment3.herokuapp.com/ws/people?wsdl](http://introsde-assignment3.herokuapp.com/ws/people?wsdl)  
-The client side can be found from: [https://github.com/tooga/introsde-2015-assignment-3-client] (https://github.com/tooga/introsde-2015-assignment-3-client)
+The client repository can be found from: [https://github.com/tooga/introsde-2015-assignment-3-client] (https://github.com/tooga/introsde-2015-assignment-3-client)
 
 
 
