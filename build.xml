@@ -121,7 +121,7 @@
             </java>
         </target>
         <!-- target for executing client -->
-        <target name="execute.client">
+        <target name="execute.client" depends="install">
             <echo message="ant execute.client introsde.assignment.client.PeopleClient in ${build.dir}" />
             <java classname="introsde.assignment.client.PeopleClient" classpath="${build.dir}" fork="true">
                 <arg value="$JAVA_OPTS  -cp" />
